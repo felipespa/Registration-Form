@@ -1,8 +1,8 @@
 # Registration-Form
 Teste Prático Formulário Cadastro
 
-# Instalando as depências
+<h2>Instalando as depências</h2>
 npm install
 
-# Executando a aplicação
+<h2> Executando a aplicação</h2>
 npm run serve
